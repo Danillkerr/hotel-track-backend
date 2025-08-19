@@ -1,4 +1,4 @@
-# 🏨 HotelEase API
+# 🏨 HotelTrack API
 
 A RESTful API for hotel management and automation.  
 This backend service is built with **Node.js, Express.js, and MongoDB (Mongoose)** and supports authentication, authorization, and full CRUD functionality.
@@ -80,10 +80,10 @@ http://localhost:3000/api-docs
 - **Types:**
 
   ```bash
-   - *feat:* A new feature
-   - *fix:* A bug fix
+   feat: - A new feature
+   fix: - A bug fix
   ```
-  Types other than fix: and feat: are allowed(build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, and others.)
+  Types other than fix: and feat: are allowed (build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, and others.)
 
 - **Example:**
 
