@@ -1,0 +1,27 @@
+{
+  "name": "hotel-track-backend",
+  "version": "1.0.0",
+  "description": " HotelTrack backend rest API",
+  "homepage": "https://github.com/Danillkerr/hotel-track-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Danillkerr/hotel-track-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danillkerr/hotel-track-backend.git"
+  },
+  "license": "ISC",
+  "author": "Daniil Yevstafiev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
